@@ -1,4 +1,9 @@
-### Hi there 👋
+## welcome ao meu perfil
+
+alguém que gosta do batman, séries, filmes e está aprendendo a desenvolver site. 
+Eu não tenho instagram, só se você clicar [aqui](https://www.instagram.com/capi.elli/) 
+
+
 
 <!--
 **3lliotwayne/3lliotwayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
